@@ -1,0 +1,6 @@
+{
+  "name": "Concrete Calculator - CivilJungles",
+  "description": "Advanced Cement Concrete Calculator & Cost Estimator for slabs, columns, beams, footings and walls with detailed material breakdowns and civil engineering guides by CivilJungles.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
